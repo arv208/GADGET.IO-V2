@@ -1,0 +1,13 @@
+<?xml version="1.0"?>
+<users>
+  <user custID="1">
+    <fullName>Allen Ronquillo Villanueva</fullName>
+    <email>allenvillanueva8@gmail.com</email>
+    <password>allen19</password>
+  </user>
+  <user custID="3">
+    <fullName>Allen Villanueva</fullName>
+    <email>allenvillanueva18@gmail.com</email>
+    <password>galaxyyd</password>
+  </user>
+</users>
